@@ -1,2 +1,11 @@
 # World-University-Rankings
 Handling missing_values with "max_rank + 1" , after that, EDA and Visualization
+
+
+"University" can be understood not only as an institution but also as a significant stage in an individual's life. Universities are among the most important academic and educational institutions in modern societies, operating with the aim of expanding knowledge, fostering research, cultivating specialized human capital, and contributing to economic, social, and cultural progress. A university can be viewed as an environment for learning, critical thinking, the exchange of ideas, and knowledge creation—a place where students, in addition to acquiring specialized knowledge, prepare to face real-world challenges and participate effectively in societal development.
+
+However, universities vary in terms of educational quality, research achievements, academic facilities, financial resources, international reputation, and the opportunities they offer students. These disparities have made the evaluation and comparison of university performance a key topic in higher education.
+
+Today, various university ranking systems strive to provide a picture of the academic standing and performance of higher education institutions using a set of quantitative and qualitative indicators. These indicators may include the quality of education, the volume and impact of research, the quantity and quality of academic citations, international reputation, research collaborations, the student-to-faculty ratio, and the extent of the university's engagement with industry. Naturally, each ranking system assigns different weights to these factors based on its specific objectives and methodology.
+
+Consequently, examining university rankings goes beyond merely identifying top-tier institutions; it also aids in better understanding the factors influencing academic standing, identifying institutional strengths and weaknesses, and analyzing performance differences among higher education institutions at both national and international levels. In this project, by examining and comparing university rankings based on existing indicators, we aim to gain a clearer picture of their standing and identify the factors that may contribute to the differences in their rankings.
