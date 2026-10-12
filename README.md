@@ -8,18 +8,18 @@ Today, various university ranking systems strive to provide a picture of the aca
 Consequently, examining university rankings goes beyond merely identifying top-tier institutions; it also aids in better understanding the factors influencing academic standing, identifying institutional strengths and weaknesses, and analyzing performance differences among higher education institutions at both national and international levels. In this project, by examining and comparing university rankings based on existing indicators, we aim to gain a clearer picture of their standing and identify the factors that may contribute to the differences in their rankings.
 
 #  The features of the dataset are: 
-#### 'World Rank' : The global ranking of the university (1=best).
-#### 'Institution' : Name of the university.
-#### 'Location' : Country or region where the university is located.
-#### 'National Rank' : The ranking position of the university within its respective country.
-#### 'Quality of Education' : A score representing the quality of education provided by the university, often based on academic achievements and faculty expertise.
-#### 'Alumni Employment' : Score based on the employability of the university's graduates.
-#### 'Quality of Faculty' : Evaluates the academic qualifications and performance of faculty members.
-#### 'Research Output' : The volume and impact of research produced by the university, including published papers and contributions to academic fields.
-#### 'Quality Publications' : The number and impact of high-quality research papers published in reputable journals.
-#### 'Influence' : A ranking that reflects how influential the university's research and faculty members are in their respective fields.
-#### 'Citations' : The number of times research from the university has been cited by other academic papers, indicating its impact on global research.
-#### 'Score' : The overall performance score assigned to the university, combining multiple ranking factors into a single metric.
+#### ¶ 'World Rank' : The global ranking of the university (1=best).
+#### ¶ 'Institution' : Name of the university.
+#### ¶ 'Location' : Country or region where the university is located.
+#### ¶ 'National Rank' : The ranking position of the university within its respective country.
+#### ¶ 'Quality of Education' : A score representing the quality of education provided by the university, often based on academic achievements and faculty expertise.
+#### ¶ 'Alumni Employment' : Score based on the employability of the university's graduates.
+#### ¶ 'Quality of Faculty' : Evaluates the academic qualifications and performance of faculty members.
+#### ¶ 'Research Output' : The volume and impact of research produced by the university, including published papers and contributions to academic fields.
+#### ¶ 'Quality Publications' : The number and impact of high-quality research papers published in reputable journals.
+#### ¶ 'Influence' : A ranking that reflects how influential the university's research and faculty members are in their respective fields.
+#### ¶ 'Citations' : The number of times research from the university has been cited by other academic papers, indicating its impact on global research.
+#### ¶ 'Score' : The overall performance score assigned to the university, combining multiple ranking factors into a single metric.
 
 # The objective of this study
 Analyzing the university rankings using data visualization techniques to identify trends, correlations, and distinguishing characteristics among top institutions. By leveraging various analytical tools, we aim to explore the factors contributing to a university’s global standing and assess their influence on academic and professional success.
